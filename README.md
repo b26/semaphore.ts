@@ -1,4 +1,4 @@
-semaphore.js
+semaphore.ts
 ============
 
 [![Build Status](https://travis-ci.org/abrkn/semaphore.js.svg?branch=master)](https://travis-ci.org/abrkn/semaphore.js)
