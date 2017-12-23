@@ -6,7 +6,9 @@
     "node": ">=0.8.0"
   },
   "main": "./lib/semaphore.js",
-  "dependencies": {},
+  "dependencies": {
+    "prex": "^0.3.0"
+  },
   "devDependencies": {
     "mocha": "2.x.x",
     "should": "8.x.x"
